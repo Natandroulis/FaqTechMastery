@@ -13,8 +13,14 @@ Abandone o pensamento de precisar saber tudo sobre a área, é super COMUM na á
 A questão não é saber de tudo, ou ter conteúdo, mas é desenvolver uma HABILIDADE que nenhum curso vai dar que é a CAPACIDADE DE RESOLVER PROBLEMAS. Essa habilidade se desenvolve quando você PERSEVERA apesar das frustações, e busca conseguir o conhecimento necessário para resolver os problemas que vierem pela frente.
 
 ### Qual melhor forma de entrar na área de programação?
-Procure primeiramente dentro área o que mais você se identifica, front-end ou Back-end.
+Procure primeiramente dentro área o que mais você se identifica, Front-end ou Back-end.
 Interessante também que até você achar a área que mais se identifica, coisas como criar seu próprio site, blog e publicar ele em algum lugar já te expõe a vários conceitos importantes, também vai te ajudar não ter medo de aplicar pra vagas de Junior, porque nesses processos você tem chance de aprender conceitos novos e as vezes passar nas entrevistas.
+
+### Qual melhor linguagem pra quem está começando ?
+ <br> “Pra quem não sabe onde ir, qualquer caminho serve.” </br>
+Depende do que você quer, cada profissional fez seu próprio caminho. O que vai te ajudar a entender pra onde ir é buscar primeiramente saber COMO funciona a área que você quer entrar Back ou Front, depois estude as melhores oportunidades do mercado.
+
+
 
 
 ### São tantas linguagens e sabendo que elas podem ficar ultrapassadas, aprender uma nova linguagem quando o cenário mudar é difícil, como é essa adaptação?
